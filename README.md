@@ -1,1 +1,1 @@
-<img src="https://c.tenor.com/E4BE7KL-QoMAAAAS/assassination-classroom.gif" width="100%">
+<img src="https://c.tenor.com/8rW18gubFYUAAAAC/assassination-classroom-koro-sensei.gif" width="100%">
