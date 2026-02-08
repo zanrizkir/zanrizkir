@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 🎓 Informatics Engineering Student  
 💡 Interested in **Artificial Intelligence, Web Development, and Data Processing**  
 🧠 Love turning ideas into real, working applications  
@@ -12,14 +12,22 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,java,html,css,powerbi,excel" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,java,html,css" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 Data & Analytics Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zanrizkir&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanrizkir&layout=compact&theme=dracula&hide_border=true" height="165" />
@@ -27,15 +35,16 @@
 
 ---
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zanrizkir&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 🚧 *Currently building and improving personal & academic projects*  
+
 📂 Repositories include:
 - Web Applications (Laravel & PHP)
 - AI & Data Processing Projects
@@ -43,7 +52,7 @@
 
 ---
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://github.com/zanrizkir">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
