@@ -1,69 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Sauzan+Rizki+Asakir;Informatics+Engineering+Student;AI+%26+Web+Development+Enthusiast" />
+# ⚡ Muhammad Sauzan Rizki Asakir
+**Informatics Engineering Student | AI & Web Development Enthusiast**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+AI+Solutions+🛡️;Developing+Web+Experiences+🌐;Turning+Data+into+Insights+📊" alt="Typing SVG" />
 
 ---
 
-## 🚀 About Me
-🎓 Informatics Engineering Student  
-💡 Interested in **Artificial Intelligence, Web Development, and Data Processing**  
-🧠 Love turning ideas into real, working applications  
-📍 Indonesia  
+### 🚀 About Me
+I am a 5th-semester student specializing in **Artificial Intelligence** and **Web Development**. 
+Currently focused on **Phishing Detection** systems and interactive learning projects.
+
+`Python` • `PHP` • `Laravel` • `MySQL` • `Data Analysis`
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,java,html,css,vscode,postman,figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Data & Analytics Tools
+### 📊 Performance Metrics
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=zanrizkir&show_icons=true&theme=transparent&text_color=A855F7&title_color=A855F7&icon_color=A855F7&hide_border=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanrizkir&layout=compact&theme=transparent&text_color=A855F7&title_color=A855F7&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://streak-stats.demolab.com?user=zanrizkir&theme=transparent&stroke=A855F7&text=A855F7&ring=A855F7&fire=A855F7&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 📈 GitHub Statistics
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zanrizkir&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanrizkir&layout=compact&theme=dracula&hide_border=true" height="165" />
+<a href="mailto:sauzanrizkiasakir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://linkedin.com/in/zanrizkir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zanrizkir&theme=dracula&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-🚧 *Currently building and improving personal & academic projects*  
-
-📂 Repositories include:
-- Web Applications (Laravel & PHP)
-- AI & Data Processing Projects
-- Database & Backend Systems
-
----
-
-## 🌐 Let's Connect
-<p align="center">
-  <a href="https://github.com/zanrizkir">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-⭐ *Feel free to explore my repositories and give a star if you find something interesting!*  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=60&section=footer" width="100%" />
 
 </div>
