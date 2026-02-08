@@ -14,7 +14,7 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,git,github,java,html,css,powerbi,excel" />
 </p>
 
 ---
