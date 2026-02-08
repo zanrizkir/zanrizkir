@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Sauzan+Rizki+Asakir;Informatics+Engineering+Student;AI+%26+Web+Development+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6D28D9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Sauzan+Rizki+Asakir;Informatics+Engineering+Student;AI+%26+Web+Development+Enthusiast" />
 
 ---
 
@@ -21,7 +21,6 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zanrizkir&show_icons=true&theme=dracula&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=zanrizkir&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanrizkir&layout=compact&theme=dracula&hide_border=true" height="165" />
 </p>
@@ -37,8 +36,8 @@
 
 ### 📌 Featured Projects
 🚧 *Currently building and improving personal & academic projects*  
-📂 Check my repositories for:
-- Web Apps (Laravel & PHP)
+📂 Repositories include:
+- Web Applications (Laravel & PHP)
 - AI & Data Processing Projects
 - Database & Backend Systems
 
