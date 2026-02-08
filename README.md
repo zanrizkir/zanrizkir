@@ -2,13 +2,6 @@
 
 # 🛠 Muhammad Sauzan Rizki Asakir
 **Informatics Engineering Student | AI & Web Development Enthusiast**
-
----
-
-### 🚀 Quick Glance
-Building an **Interactive Sign Language Game** 🎮 | Specialized in **Phishing Detection** with AI 🛡️
-Currently exploring **Machine Learning, Deep Learning, and NLP** 🧠
-
 ---
 
 ### 💻 Tech Stack & Tools
