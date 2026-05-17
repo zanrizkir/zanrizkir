@@ -52,25 +52,6 @@
 
 ---
 
-## 📁 Project Highlights
-
-### 🌐 Web Applications
-- Full-stack applications built with Laravel and PHP
-- Database-driven systems with MySQL
-- Responsive front-end interfaces
-
-### 🤖 AI & Data Processing
-- Python-based data analysis projects
-- Machine learning experimentation
-- Data visualization and reporting
-
-### 📚 Academic Projects
-- University coursework implementations
-- Collaborative coding projects
-- Research-based applications
-
----
-
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zanrizkir)
