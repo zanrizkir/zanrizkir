@@ -33,7 +33,7 @@
 name        : Muhamad Sauzan Rizki Asakir
 alias       : Ozan
 location    : Indonesia 🇮🇩
-education   : Informatics Engineering — Semester 5
+education   : Informatics Engineering
 focus       : AI / ML · Web Development · Mobile Apps
 available   : Open to collaborations & internships
 ```
