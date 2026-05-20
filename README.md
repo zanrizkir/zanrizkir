@@ -33,18 +33,10 @@
 name        : Muhamad Sauzan Rizki Asakir
 alias       : Ozan
 location    : Indonesia 🇮🇩
-education   : Informatics Engineering
+education   : Informatics Engineering — Semester 6
 focus       : AI / ML · Web Development · Mobile Apps
 available   : Open to collaborations & internships
 ```
-
----
-
-## 🚀 What I'm Currently Building
-
-- 📱 **Anime Streaming App** — Mobile app built with Flutter & Dart
-- 🤖 **Exploring AI/ML** — Studying machine learning concepts & models
-- 📊 **Data Analytics** — Practicing with Power BI & Python for real datasets
 
 ---
 
@@ -69,6 +61,8 @@ available   : Open to collaborations & internships
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
