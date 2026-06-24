@@ -89,6 +89,6 @@ available   : Open to collaborations & internships
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i><br/>
-  <sub>— Cory House</sub>
+  <i>"Tidurlah dan Nikmati Mimpimu"</i><br/>
+  <sub>Ozan 2k26<3</sub>
 </div>
